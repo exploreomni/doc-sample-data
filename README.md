@@ -1,2 +1,3 @@
-# doc-sample-data
-Sample datasets used in the official Omni docs
+# Omni docs sample data
+
+This repo contains sample datasets used throughout the Omni documentation.
