@@ -1,0 +1,23 @@
+source,target,users
+Google Ads,Product Pages,4500
+Google Ads,Pricing Page,2100
+Google Ads,Blog,1800
+Organic Search,Product Pages,3200
+Organic Search,Blog,2800
+Organic Search,Pricing Page,1500
+Social Media,Product Pages,1900
+Social Media,Blog,2200
+Email Campaign,Pricing Page,1700
+Email Campaign,Product Pages,1100
+Product Pages,Add to Cart,4200
+Product Pages,Exit,6500
+Pricing Page,Start Trial,3100
+Pricing Page,Contact Sales,1400
+Pricing Page,Exit,800
+Blog,Newsletter Signup,2400
+Blog,Product Pages,1600
+Blog,Exit,2800
+Add to Cart,Purchase,2900
+Add to Cart,Exit,1300
+Start Trial,Paid Conversion,1800
+Start Trial,Churn,1300
